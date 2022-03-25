@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "Ye\u015Fil"
+  - Diz
+  - Mavi
+  - "s\u0131f\u0131r"
+  - karakter
+  - Purple
+  - Blue
+  - DizR
+  - DizB
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - karakter
+  - Water
+  - UI
+  - cube
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
